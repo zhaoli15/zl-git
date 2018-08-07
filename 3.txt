@@ -1,6 +1,5 @@
 this is beijing
 today is Monday
-who are you
-fine thank you
 i am at working
 what is your name
+this is modified in zltest branch
